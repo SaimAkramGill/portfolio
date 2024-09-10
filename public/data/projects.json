@@ -1,0 +1,101 @@
+[
+  {
+    "name": "ChartWell Digital",
+    "image": "projects/CWDigital.jpeg",
+    "link": "https://www.chartwell-consulting.com/digital/",
+    "playStoreLink": "",
+    "appStoreLink": "",
+    "about": "Chartwell is a digital platform to manage production failures, track time breakdowns, losses, and downtime.It provides insights to optimize manufacturing processes and minimize disruptions, enhancing productivity with Graphical representation of the data coming from sensors and machines.",
+    "contribution": ["**Worked from Requirement Gathering to the developement of the application"],
+    "builtWith": ["SOLID Principles","Next Js", "React Query", "D3", "Jest", "Cypress"]
+  },
+  {
+    "name": "Vincellar",
+    "image": "projects/vincellar.png",
+    "link": "https://vincellar.vinfolio.com/",
+    "playStoreLink": "",
+    "appStoreLink": "",
+    "about": "Vinfolio transforms how the fine wine community buys, sells, manages, and enjoys wine with the perfect pairing: superior fine wine expertise and best-in-class Silicon Valley technology talent.",
+    "contribution": ["**Built the entire mobile app"],
+    "builtWith": [
+      "React Js",
+      "Redux Toolkit",
+      "Microfrontend Architecture",
+      "Node Js",
+      "Mongo DB",
+      "Microservices"
+    ]
+  },
+  {
+    "name": "EduCarts",
+    "image": "projects/educarts.png",
+    "link": "https://educarts.io/",
+    "playStoreLink": "",
+    "appStoreLink": "",
+    "about": "EduCarts - A cross platform mobile app that simplifies the hassle of paying international tuition fees, especially from under-developed countries.",
+    "contribution": ["**Built the entire mobile app"],
+    "builtWith": [
+      "Flutter",
+      "Dart",
+      "RiverPod",
+      "Hooks",
+      "Auto Route",
+      "Dio",
+      "MVVM"
+    ]
+  },
+  {
+    "name": "PiRemit",
+    "image": "projects/piremit.png",
+    "link": "https://www.piremit.com/",
+    "playStoreLink": "",
+    "appStoreLink": "",
+    "about": "PiRemit - A native android app that simplifies cross border transactions.",
+    "contribution": ["**Built the entire mobile app"],
+    "builtWith": [
+      "Android",
+      "Kotlin",
+      "Java",
+      "Room",
+      "Retrofit",
+      "Dagger Hilt",
+      "MVVM"
+    ]
+  },
+  {
+    "name": "Oasis",
+    "image": "projects/oasis.png",
+    "link": "https://www.tryoasis.app/",
+    "playStoreLink": "",
+    "appStoreLink": "",
+    "about": "Oasis - A cross platform mobile app that connects you with people who love anime as you do.",
+    "contribution": ["**Built the entire mobile app"],
+    "builtWith": [
+      "Flutter",
+      "Dart",
+      "RiverPod",
+      "Hooks",
+      "Auto Route",
+      "Dio",
+      "MVVM"
+    ]
+  },
+  {
+    "name": "Allon Fasaha",
+    "image": "projects/allon-fasaha.png",
+    "link": "https://steamledge.com/allon-fasaha/",
+    "playStoreLink": "",
+    "appStoreLink": "",
+    "about": "Allon Fasaha - A native offline/online android learning app for out-of-school children in northern Nigeria that aims at reintegrating 75 million out-of-school children back into formal education. \n This project won the Microsoft Build2030 Hackathon under community challenge in the year 2022",
+    "contribution": ["**Built the entire mobile app"],
+    "builtWith": [
+      "Android",
+      "Kotlin",
+      "Java",
+      "Room",
+      "Retrofit",
+      "Dagger Hilt",
+      "MVVM"
+    ]
+  }
+]
